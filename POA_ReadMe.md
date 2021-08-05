@@ -2,8 +2,8 @@
 ## Wallace_Chain_5 Creation & Transactions
 
 1. Create two accounts to be sealed
-    ![Account 1 Creation](/Screenshots/Account 1 Creation.png)
-    ![Account 2 Creation](/Screenshots/Account 2 Creation.png)
+    ![Account 1 Creation](/Screenshots/Account 1 Creation.png?raw=true "Optional Title")
+    ![Account 2 Creation](/Screenshots/Account 2 Creation.png?raw=true "Optional Title")
 2. Create PoA blockchain
     2. Use the two accounts that were created.
     ![wallace_chain_5 Config](/Screenshots/wallace_chain_5 Config.png)
