@@ -24,3 +24,8 @@
     ![Pending Transaction](/Screenshots/Pending Transaction.png)
     ![Submitted Transaction](/Screenshots/Submitted Transaction.png)
     ![Submitted Transaction (2)](/Screenshots/Submitted Transaction (2).png)
+7. Confirmation of newly created blockchain (wallace_chain_5)
+    ![Chain Creation Confirmation](/Screenshots/Chain Creation Confirmation.png)
+
+
+    
